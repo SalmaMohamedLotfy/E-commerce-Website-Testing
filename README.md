@@ -30,4 +30,4 @@ The system allowed the invalid email to be submitted without any validation.
 - **Test Account:** New user account (unverified email)  
 
 ### Bug Report Link:  
-[View Bug Report](https://salmamohamed2897.atlassian.net/browse/WT-)
+[View Bug Report](https://salmamohamed2897.atlassian.net/browse/WT-1)
